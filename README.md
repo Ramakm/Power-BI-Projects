@@ -1,4 +1,20 @@
 # Power-BI-Projects
 This repo is all about different Power BI dashboard build using Power BI desktop tool.
 
+# **1. E-Commerce Sell Report Dashboard:**
+
+<b> Power BI file name uploaded as:</b> Dasboard.pbix<br>
 ![image](https://user-images.githubusercontent.com/8182816/225306819-9d7cc35c-923d-4f41-8b81-1be5f42a849b.png)
+
+# **2. HR Report Analytics:**<br>
+
+## **Aim-** <br>
+      To Find out why people are leaving the organization.
+## **Steps To Follow-**<br>
+      * Upload File and Transform/Load</b>
+      * Data Cleaning: Like Null Value check and Naming check
+        That you can do using one simple method. Select any column and go to view-> check column quality checkbox. Its better do that when you are first time seeing the         data instead of uploading it on BI tool and editing those stuff in Power Query Editor.
+      * Duplicates removal in variables/columns.
+      * Close and Apply in the Power Query Editor. Must else it will not reflect.
+      * You can see that in all the integer variables, there will be a summation sign. Go to Table view again and try to remove the summerization as don't summerize for         those columns.
+      * Let's build the Dashboard now using different visualization tools.
