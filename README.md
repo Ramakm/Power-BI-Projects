@@ -1,12 +1,13 @@
 # Power-BI-Projects
 This repo is all about different Power BI dashboard build using Power BI desktop tool.
 
-# **1. E-Commerce Sell Report Dashboard:**
+# **Project-1. E-Commerce Sell Report Dashboard:**
 
 <b> Power BI file name uploaded as:</b> Dasboard.pbix<br>
 ![image](https://user-images.githubusercontent.com/8182816/225306819-9d7cc35c-923d-4f41-8b81-1be5f42a849b.png)
 
-# **2. HR Report Analytics:**<br>
+# **Project-2. HR Report Analytics:**<br>
+                  Project File name: HR Analytics 
 
 ## **Aim-** <br>
       To Find out why people are leaving the organization.
@@ -18,3 +19,5 @@ This repo is all about different Power BI dashboard build using Power BI desktop
       * Close and Apply in the Power Query Editor. Must else it will not reflect.
       * You can see that in all the integer variables, there will be a summation sign. Go to Table view again and try to remove the summerization as don't summerize for         those columns.
       * Let's build the Dashboard now using different visualization tools.
+## **Dashboard:**<br>
+![image](https://user-images.githubusercontent.com/8182816/233355890-af2e5ed0-a1f7-4071-bf8e-a412593f3c37.png)
