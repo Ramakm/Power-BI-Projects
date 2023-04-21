@@ -21,3 +21,10 @@ This repo is all about different Power BI dashboard build using Power BI desktop
       * Let's build the Dashboard now using different visualization tools.
 ## **Dashboard:**<br>
 ![image](https://user-images.githubusercontent.com/8182816/233355890-af2e5ed0-a1f7-4071-bf8e-a412593f3c37.png)
+
+
+# **Project-3. Airbnb Data Analysis:**<br>
+
+## **Dashboard:**<br>
+
+![image](https://user-images.githubusercontent.com/8182816/233637421-50c7dbeb-4139-4019-8d65-7bdac387a65d.png)
