@@ -28,3 +28,10 @@ This repo is all about different Power BI dashboard build using Power BI desktop
 ## **Dashboard:**<br>
 
 ![image](https://user-images.githubusercontent.com/8182816/233637421-50c7dbeb-4139-4019-8d65-7bdac387a65d.png)
+
+
+# **Project-4. Global Terrorism Dataset Analysis:**<br>
+
+## **Dashboard:**<br>
+
+![image](https://user-images.githubusercontent.com/8182816/234980205-86d9b498-1ef0-4b3e-a913-6a470f254b7a.png)
