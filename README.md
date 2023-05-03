@@ -37,3 +37,10 @@ This repo is all about different Power BI dashboard build using Power BI desktop
 ## **Dashboard:**<br>
 
 ![image](https://user-images.githubusercontent.com/8182816/234980205-86d9b498-1ef0-4b3e-a913-6a470f254b7a.png)
+
+
+# **Project-5. Screen Time Dataset Analysis:**<br>
+
+## **Dashboard:**<br>
+
+![image](https://user-images.githubusercontent.com/8182816/235904904-5eedb4b6-2d36-4d2d-b275-52606786de19.png)
